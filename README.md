@@ -13,7 +13,7 @@ Telecommunications engineering student at **INSA Lyon**, currently spending my m
 |---|---|---|
 | [**GROUPI**](https://github.com/AnasSfar/groupi-showcase) | Management platform for private tutors and parents (web + Android), live in production | NestJS, React, PostgreSQL, Capacitor, Vercel |
 | [**Swifties Charts**](https://github.com/AnasSfar/swifties-charts-showcase) | Live Taylor Swift stats platform: daily streams and worldwide charts collected automatically, fan games, ~100k visitors since launch | Python, FastAPI, React, Playwright, Cloudflare R2, Vercel |
-| [**Tunisie 2035**](https://tn2035.vercel.app) | Public-policy platform: sourced plans, reforms and indicators, in French and Arabic | React, TypeScript, Tailwind, Recharts |
+| [**Tunisie 2035**](https://github.com/AnasSfar/tunisia2035-showcase) | Public-policy platform: sourced plans, reforms and indicators, in French and Arabic | React, TypeScript, Tailwind, Recharts |
 | [**PTIR**](https://github.com/AnasSfar/PTIR) | Research project: shared routes and user profiles from GPS trajectories | Python, pandas, Folium |
 | [**The Circle of Life**](https://github.com/AnasSfar/Circle-Of-Life) | Multi-process ecosystem simulation with four IPC mechanisms and a live dashboard | Python, multiprocessing |
 
