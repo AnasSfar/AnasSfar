@@ -1,28 +1,3 @@
-### Hi, I'm Anas 👋
-
-Telecommunications engineering student at **INSA Lyon**, currently spending my master's year on exchange at **UPC Barcelona** (EETAC). I enjoy building complete products, from the specification to the app on someone's phone, and I'm heading towards **data and AI**.
-
-- 🚀 Currently building **[Swifties Charts](https://github.com/AnasSfar/swifties-charts-showcase)**, a live Taylor Swift stats platform fed by a daily data pipeline (~100k visitors since launch), and **[Tunisie 2035](https://github.com/AnasSfar/tunisia2035-showcase)**, a public-policy platform in French and Arabic.
-- 🏗️ Built **[GROUPI](https://github.com/AnasSfar/groupi-showcase)** on my own, from functional spec to backend, web and Android: a platform that helps private tutors manage groups, attendance and payments, with a dedicated portal for parents. Live in production.
-- 📊 On the data side: clustering 2,000+ GPS traces from the Paris region to find the routes people share ([PTIR](https://github.com/AnasSfar/PTIR)).
-- 🛠️ Most used: **TypeScript · React · NestJS · PostgreSQL · Prisma · Python · pandas**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/anas-sfar-331071370/) · [anassfar.fr@gmail.com](mailto:anassfar.fr@gmail.com)
-
-#### Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Swifties Charts**](https://github.com/AnasSfar/swifties-charts-showcase) | Live Taylor Swift stats platform: daily streams and worldwide charts collected automatically, fan games, ~100k visitors since launch | Python, FastAPI, React, Playwright, Cloudflare R2, Vercel |
-| [**Tunisie 2035**](https://github.com/AnasSfar/tunisia2035-showcase) | Public-policy platform: sourced plans, reforms and indicators, in French and Arabic | React, TypeScript, Tailwind, Recharts |
-| [**GROUPI**](https://github.com/AnasSfar/groupi-showcase) | Management platform for private tutors and parents (web + Android), live in production | NestJS, React, PostgreSQL, Capacitor, Vercel |
-| [**PTIR**](https://github.com/AnasSfar/PTIR) | Research project: shared routes and user profiles from GPS trajectories | Python, pandas, Folium |
-| [**The Circle of Life**](https://github.com/AnasSfar/Circle-Of-Life) | Multi-process ecosystem simulation with four IPC mechanisms and a live dashboard | Python, multiprocessing |
-
-<sub>Some of my work lives in private repositories. I'm happy to walk you through it.</sub>
-
-<details>
-<summary><b>Version française</b></summary>
-
 ### Bonjour, moi c'est Anas 👋
 
 Élève ingénieur en Télécommunications à l'**INSA Lyon**, je passe mon année de master en échange à l'**UPC Barcelona** (EETAC). J'aime construire des produits complets, de la spécification jusqu'à l'application sur le téléphone de quelqu'un, et je m'oriente vers la **data et l'IA**.
@@ -44,5 +19,30 @@ Telecommunications engineering student at **INSA Lyon**, currently spending my m
 | [**The Circle of Life**](https://github.com/AnasSfar/Circle-Of-Life) | Simulation multiprocessus d'un écosystème avec quatre mécanismes d'IPC et un tableau de bord en direct | Python, multiprocessing |
 
 <sub>Une partie de mon travail est dans des dépôts privés. Je le présente volontiers.</sub>
+
+<details>
+<summary><b>English version</b></summary>
+
+### Hi, I'm Anas 👋
+
+Telecommunications engineering student at **INSA Lyon**, currently spending my master's year on exchange at **UPC Barcelona** (EETAC). I enjoy building complete products, from the specification to the app on someone's phone, and I'm heading towards **data and AI**.
+
+- 🚀 Currently building **[Swifties Charts](https://github.com/AnasSfar/swifties-charts-showcase)**, a live Taylor Swift stats platform fed by a daily data pipeline (~100k visitors since launch), and **[Tunisie 2035](https://github.com/AnasSfar/tunisia2035-showcase)**, a public-policy platform in French and Arabic.
+- 🏗️ Built **[GROUPI](https://github.com/AnasSfar/groupi-showcase)** on my own, from functional spec to backend, web and Android: a platform that helps private tutors manage groups, attendance and payments, with a dedicated portal for parents. Live in production.
+- 📊 On the data side: clustering 2,000+ GPS traces from the Paris region to find the routes people share ([PTIR](https://github.com/AnasSfar/PTIR)).
+- 🛠️ Most used: **TypeScript · React · NestJS · PostgreSQL · Prisma · Python · pandas**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/anas-sfar-331071370/) · [anassfar.fr@gmail.com](mailto:anassfar.fr@gmail.com)
+
+#### Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Swifties Charts**](https://github.com/AnasSfar/swifties-charts-showcase) | Live Taylor Swift stats platform: daily streams and worldwide charts collected automatically, fan games, ~100k visitors since launch | Python, FastAPI, React, Playwright, Cloudflare R2, Vercel |
+| [**Tunisie 2035**](https://github.com/AnasSfar/tunisia2035-showcase) | Public-policy platform: sourced plans, reforms and indicators, in French and Arabic | React, TypeScript, Tailwind, Recharts |
+| [**GROUPI**](https://github.com/AnasSfar/groupi-showcase) | Management platform for private tutors and parents (web + Android), live in production | NestJS, React, PostgreSQL, Capacitor, Vercel |
+| [**PTIR**](https://github.com/AnasSfar/PTIR) | Research project: shared routes and user profiles from GPS trajectories | Python, pandas, Folium |
+| [**The Circle of Life**](https://github.com/AnasSfar/Circle-Of-Life) | Multi-process ecosystem simulation with four IPC mechanisms and a live dashboard | Python, multiprocessing |
+
+<sub>Some of my work lives in private repositories. I'm happy to walk you through it.</sub>
 
 </details>
