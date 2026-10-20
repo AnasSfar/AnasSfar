@@ -1,3 +1,5 @@
+<sub>🇬🇧 English · [🇫🇷 Français](README.fr.md)</sub>
+
 ### Hi, I'm Anas 👋
 
 Telecommunications engineering student at **INSA Lyon**, currently spending my master's year on exchange at **UPC Barcelona** (EETAC). I enjoy building complete products, from the specification to the app on someone's phone, and I'm heading towards **data and AI**.
